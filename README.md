@@ -16,8 +16,12 @@
 ### "Are Puerto Ricans being pushed out?"
    https://www.youtube.com/embed/YGXtWpCOiC8"
 
-   
+### Web resources
+  #### GDP for Puerto Rico released from the White House
+  https://www.bea.gov/data/gdp/gdp-puerto-rico
   
+### CentroPR, Puerto Rican studies research institute
+  https://centropr-archive.hunter.cuny.edu/sites/default/files/data_briefs/HousingPuertoRico.pdf
   
   
 ## Dataset Descriptions
