@@ -23,11 +23,14 @@
 ### CentroPR, Puerto Rican studies research institute
   https://centropr-archive.hunter.cuny.edu/sites/default/files/data_briefs/HousingPuertoRico.pdf
   
+### Archival Zillow Data https://www.zillowgroup.com/developers/api/public-data/public-records-api/
+  
   
 ## Dataset Descriptions
   * Database used: Tableau and Python
   * Programming language: R
-  * Datatypes: JSON, API, JSONPath
+  * Datatypes: JSON, API, HTML
+  * Dashboard: Postgres or MongoDB
   
 * #### Algorithm 
   
