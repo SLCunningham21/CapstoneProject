@@ -23,8 +23,9 @@
 ### CentroPR, Puerto Rican studies research institute
   https://centropr-archive.hunter.cuny.edu/sites/default/files/data_briefs/HousingPuertoRico.pdf
   
-### Archival Zillow Data https://www.zillowgroup.com/developers/api/public-data/public-records-api/
-  
+### Archival Zillow Data 
+  https://www.zillowgroup.com/developers/api/public-data/public-records-api/
+  <img scr= https://github.com/SLCunningham21/CapstoneProject/blob/Overview/Images/Zillow%20Rental%20Data.jpg > 
   
 ## Dataset Descriptions
   * Database used: Tableau and Python
