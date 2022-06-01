@@ -28,17 +28,19 @@
   <img scr= https://github.com/SLCunningham21/CapstoneProject/blob/Overview/Images/Zillow%20Rental%20Data.jpg > 
   
 ## Dataset Descriptions
-  * Database used: Tableau and Python
-  * Programming language: R
+  * Database used: SQlite, Tableau
+  * Beautiful Soup, API extraction
+  * Programming language: R, Python
   * Datatypes: JSON, API, HTML
-  * Dashboard: Postgres or MongoDB
+  
   
 * #### Algorithm 
   
   
   
 * #### Model Descriptions
-
+* Linear Regression
+* continuous data
   
  
 ## Historical Significance and Implications
