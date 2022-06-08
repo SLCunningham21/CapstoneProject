@@ -57,6 +57,9 @@
 
 **5. Make Predictions**
 
+* I was curious to compare the HUD Fair Market Rent of subsidized housing the the unsubsidized housing rental market.
+![image](https://github.com/SLCunningham21/CapstoneProject/blob/main/Images/Fair%20Market%20Rent.png)
+
 
 **6. Evaluate model accuracy**
 
