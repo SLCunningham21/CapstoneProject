@@ -66,10 +66,10 @@ Explanation of model choice, including limitations and benefits
 
 **6. Evaluate model accuracy**
 
->Benefits:
+>Benefits: Decision tree models are easy to interpret and understand, can handle categorical and numerical data. Linear regression is a beneficial model for trend progression such as housing markets.
 
 
-> Limitations:
+> Limitations: There are confounding factors that I could not analysis at this time that could have an impact on the data analysis. A drawback to linear regression is that is can underestimate the relationship as the model follows the trend of the mean.
 
 >**Conclusions**
 
