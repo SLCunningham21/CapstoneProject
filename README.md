@@ -42,19 +42,12 @@
 **1. Data Collection & Importing**
 * I began by extracting API data from Zillow, HTML from Classificadospr (the Puerto Rican form of Craiglist). Ultimately I decided on using the Classificados data because I felt it was more representative of the Puerto Rican market as most natives and locals do not use Zillow. Airbnb would have been my first optional, however Airbnb does not allow nonbusiness API extraction. 
 
-*See python codes [HERE](
-
-creating a SQL database, called ISS_Locations where we imported our CSV file. Our CSV file contains the general location in the sky when the ISS can be visible on a given date in a given city. The cities include Northern Virginia. Maryland, and DC.
-
-
 **2. Data Cleaning**
 * I grouped the cities of the listings into 5 regions: North, East, Central, South and West. After grouping I was able to see that the East and the North held the predominate amount of listing numbers which supported my hypothesis that the "metro area" [Metro area: prime tourist destinations that area have metro accessbility] would be the target destination for the rental market.
 
 ![image](https://github.com/SLCunningham21/CapstoneProject/blob/main/Images/regionlisting.png)
 
 ![image](https://github.com/SLCunningham21/CapstoneProject/blob/main/Images/grey_regions.png)
-
-
 
 **3. Data Training**
 
@@ -73,5 +66,6 @@ creating a SQL database, called ISS_Locations where we imported our CSV file. Ou
 ## Historical Significance and Implications
 * Currently Puerto Rico is undergoing hearings to decide the future of the island's political states: statehood, independence or independence with free association
 * https://apnews.com/article/politics-puerto-rico-caribbean-congress-392e89b3d50ae00e3c647e58886b27f3
+      
 ## Future Further analysis
 *	Compare Spanish & English listings to see if there is a difference in pricing geared at different markets
