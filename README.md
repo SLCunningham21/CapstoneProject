@@ -1,4 +1,10 @@
-# El Boriken: <img=scr "
+# El Boriken:
+
+
+
+![my image](https://github.com/SLCunningham21/CapstoneProject/blob/main/Images/bandera.jpg)
+
+
 >### Predicting the most cost-effective region of Puerto Rican unsubsidized rental properties
 ## Overview
 * Government tax incentives such as Act 22, Act 60 have increased Puerto Rican expats to the island. This increase in tourism and permanent foreign residents has increased the unsubsized rent prices, however the minimum wage for most natives remains at $8.50 per hour. This dollar 25 cent increase only went into effect January 1, 2022. This incongruity imposes an obvious problem. Following the destruction of Hurricane Maria and Hurricane Irma in 2017, Act 60 was initiationed in 2019. This tax breaks was attractive to remote, tech and investory industries and was believed to be a reignition of the Puerto Rican economy but for natives of Puerto rico it meant that they could no longer afford to live in their country. 
@@ -28,6 +34,12 @@
 
 
 **2. Data Cleaning**
+* I grouped the cities of the listings into 5 regions: North, East, Central, South and West. After grouping I was able to see that the East and the North held the predominate amount of listing numbers which supported my hypothesis that the "metro area" [Metro area: prime tourist destinations that area have metro accessbility] would be the target destination for the rental market.
+
+![image](https://github.com/SLCunningham21/CapstoneProject/blob/main/Images/regionlisting.png)
+
+![image](https://github.com/SLCunningham21/CapstoneProject/blob/main/Images/grey_regions.png)
+
 
 
 **3. Data Training**
