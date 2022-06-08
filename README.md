@@ -53,6 +53,9 @@
 
 
 **4. Machine Learning Model creation**
+*Description of how data was split into training and testing sets
+Explanation of model choice, including limitations and benefits
+
 
 
 **5. Make Predictions**
@@ -63,8 +66,20 @@
 
 **6. Evaluate model accuracy**
 
+>Benefits:
+
+
+> Limitations:
+
 >**Conclusions**
 
+
+**Per analysis of the public housing data:**
+
+Out of 54,000 unit properties the total sum of expenses was 36,000, which is roughly $1,500 expenses per unit.
+If the average Puerto rican makes a minimum wage of $8.50 ($1,300 before taxes) then that is a ~ -200 deficient only considering monthly rental expenses.
+
+![image](https://github.com/SLCunningham21/CapstoneProject/blob/main/Images/PublicHousingAuthorities.png)
   
 ## Historical Significance and Implications
 * Currently Puerto Rico is undergoing hearings to decide the future of the island's political states: statehood, independence or independence with free association
