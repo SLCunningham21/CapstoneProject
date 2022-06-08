@@ -87,3 +87,4 @@ If the average Puerto rican makes a minimum wage of $8.50 ($1,300 before taxes) 
       
 ## Future Further analysis
 *	Compare Spanish & English listings to see if there is a difference in pricing geared at different markets
+
