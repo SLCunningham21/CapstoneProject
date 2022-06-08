@@ -1,0 +1,196 @@
+[
+  [
+    {
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/42ecd238b16d775f98dd59200a7073fb-p_c.jpg"
+        }
+      ],
+      "zpid": 2090170449,
+      "longitude": -66.11643,
+      "latitude": 18.466173,
+      "address": {
+        "city": "San Juan",
+        "state": "PR",
+        "streetAddress": "152 Calle Luna #2B",
+        "zipcode": "00917"
+      },
+      "homeStatus": "FOR_RENT",
+      "livingArea": null,
+      "homeType": "APARTMENT",
+      "livingAreaUnits": null,
+      "currency": "USD",
+      "price": 2475
+    },
+    {
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3ff04313eb21ae16155a55eae99a91f-p_c.jpg"
+        }
+      ],
+      "zpid": 2068710500,
+      "longitude": -66.057495,
+      "latitude": 18.451313,
+      "address": {
+        "city": "San Juan",
+        "state": "PR",
+        "streetAddress": "2019 Calle Cacique #1",
+        "zipcode": "00911"
+      },
+      "homeStatus": "FOR_RENT",
+      "livingArea": null,
+      "homeType": "APARTMENT",
+      "livingAreaUnits": null,
+      "currency": "USD",
+      "price": 3400
+    },
+    {
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a75450d2de115efd6f528b56048e127d-p_c.jpg"
+        }
+      ],
+      "zpid": 2065733445,
+      "longitude": -66.057495,
+      "latitude": 18.451313,
+      "address": {
+        "city": "San Juan",
+        "state": "PR",
+        "streetAddress": "1563 Calle Lopez Landron",
+        "zipcode": "00911"
+      },
+      "homeStatus": "FOR_RENT",
+      "livingArea": 1300,
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "price": 2500
+    },
+    {
+      "bathrooms": 1.5,
+      "bedrooms": 2,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a60f5f48400209710532f3c1b9b1f2c7-p_c.jpg"
+        }
+      ],
+      "zpid": 2077472499,
+      "longitude": -66.113914,
+      "latitude": 18.46526,
+      "address": {
+        "city": "San Juan",
+        "state": "PR",
+        "streetAddress": "306 Calle De La Fortaleza #3",
+        "zipcode": "00901"
+      },
+      "homeStatus": "FOR_RENT",
+      "livingArea": 950,
+      "homeType": "APARTMENT",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "price": 2550
+    },
+    {
+      "bathrooms": 1.5,
+      "bedrooms": 1,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3c9c669a6f848cb0566cf82590b74aa-p_c.jpg"
+        }
+      ],
+      "zpid": 2068723185,
+      "longitude": -66.105064,
+      "latitude": 18.465149,
+      "address": {
+        "city": "San Juan",
+        "state": "PR",
+        "streetAddress": "203 Calle Del Recinto #1",
+        "zipcode": "00901"
+      },
+      "homeStatus": "FOR_RENT",
+      "livingArea": null,
+      "homeType": "APARTMENT",
+      "livingAreaUnits": null,
+      "currency": "USD",
+      "price": 3100
+    },
+    {
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f414111951a59530ff53dcfa26b3458-p_c.jpg"
+        }
+      ],
+      "zpid": 2067841052,
+      "longitude": -66.08449,
+      "latitude": 18.452929,
+      "address": {
+        "city": "San Juan",
+        "state": "PR",
+        "streetAddress": "604 Calle Cerra #3B",
+        "zipcode": "00907"
+      },
+      "homeStatus": "FOR_RENT",
+      "livingArea": null,
+      "homeType": "APARTMENT",
+      "livingAreaUnits": null,
+      "currency": "USD",
+      "price": 3200
+    },
+    {
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/04adfc277feb851dee202e793261a08c-p_c.jpg"
+        }
+      ],
+      "zpid": 2065694475,
+      "longitude": -66.08449,
+      "latitude": 18.452929,
+      "address": {
+        "city": "San Juan",
+        "state": "PR",
+        "streetAddress": "561 Calle Ensenada #9B",
+        "zipcode": "00907"
+      },
+      "homeStatus": "FOR_RENT",
+      "livingArea": 1308,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "price": 2980
+    },
+    {
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/04045b8e441f6b8b23925cc7c23ba75a-p_c.jpg"
+        }
+      ],
+      "zpid": 2063382904,
+      "longitude": -66.01017,
+      "latitude": 18.436432,
+      "address": {
+        "city": "Carolina",
+        "state": "PR",
+        "streetAddress": "6049 Avenue Isla Verde Cond La Posada #1-03",
+        "zipcode": "00979"
+      },
+      "homeStatus": "FOR_RENT",
+      "livingArea": 500,
+      "homeType": "CONDO",
+      "livingAreaUnits": "Square Feet",
+      "currency": "USD",
+      "price": 2500
+    }
+  ]
+]
