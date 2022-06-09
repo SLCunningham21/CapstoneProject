@@ -1,4 +1,4 @@
-# El Boriken:
+# El Borik&eacute;n:
 
 
 
@@ -40,7 +40,7 @@
 
 ## Mechanism:
 **1. Data Collection & Importing**
-* I began by extracting API data from Zillow, HTML from Classificadospr (the Puerto Rican form of Craiglist). Ultimately I decided on using the Classificados data because I felt it was more representative of the Puerto Rican market as most natives and locals do not use Zillow. Airbnb would have been my first optional, however Airbnb does not allow nonbusiness API extraction. 
+* I began by extracting API data from Zillow, HTML from Classificadospr (the Puerto Rican form of Craiglist). Ultimately I decided on using the Classificados data because I felt it was more representative of the Puerto Rican market as most natives and locals do not use Zillow. Airbnb would have been my first option, however Airbnb does not allow private or strictly educational API extraction. 
 
 **2. Data Cleaning**
 * I grouped the cities of the listings into 5 regions: North, East, Central, South and West. After grouping I was able to see that the East and the North held the predominate amount of listing numbers which supported my hypothesis that the "metro area" [Metro area: prime tourist destinations that area have metro accessbility] would be the target destination for the rental market.
@@ -73,7 +73,7 @@ Explanation of model choice, including limitations and benefits
 
 >**Conclusions**
 
-*Out of the majority of listings in Puerto Rico, the listings are centered around the Metro area (North East).
+* Out of the majority of listings in Puerto Rico, the listings are centered around the Metro area (North East).
 
 ![image](https://github.com/SLCunningham21/CapstoneProject/blob/main/Images/listingdestribution.png)
 
