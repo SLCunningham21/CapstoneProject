@@ -73,6 +73,9 @@ Explanation of model choice, including limitations and benefits
 
 >**Conclusions**
 
+*Out of the majority of listings in Puerto Rico, the listings are centered around the Metro area (North East).
+
+![image](https://github.com/SLCunningham21/CapstoneProject/blob/main/Images/listingdestribution.png)
 
 **Per analysis of the public housing data:**
 
@@ -86,5 +89,6 @@ If the average Puerto rican makes a minimum wage of $8.50 ($1,300 before taxes) 
 * https://apnews.com/article/politics-puerto-rico-caribbean-congress-392e89b3d50ae00e3c647e58886b27f3
       
 ## Future Further analysis
-*	Compare Spanish & English listings to see if there is a difference in pricing geared at different markets
+*	Compare Spanish & English listings to see if there is a difference in pricing geared at different markets.
+*	If given the time, I would like to further explore the subsidized and unsubsidized housing metrics over the course of the last 5-10 years and investigate the impact environmental factors had on the economy and the housing market.
 
