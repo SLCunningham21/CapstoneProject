@@ -7,7 +7,8 @@
 
 >### Predicting the most cost-effective region of Puerto Rican unsubsidized rental properties
 ## Overview
-* Government tax incentives such as Act 20 and Act 22 have increased Puerto Rican expats to the island. This increase in tourism and permanent foreign residents has increased the unsubsized rent prices, however the minimum wage for most natives remains at $8.50 per hour. This dollar 25 cent increase only went into effect January 1, 2022. This incongruity imposes an obvious problem. Following the destruction of Hurricane Maria and Hurricane Irma in 2017, Act 60 was initiationed in 2019. This tax breaks was attractive to remote, tech and investory industries and was believed to be a reignition of the Puerto Rican economy but for natives of Puerto rico it meant that they could no longer afford to live in their country. 
+
+* Government tax incentives such as Act 20 and Act 22 have increased Puerto Rican expats to the island. This increase in tourism and permanent foreign residency has influenced the inflation of unsubsized rental prices, however the minimum wage in Puerto Rico remains at $8.50 per hour. his dollar 25 cent increase only went into effect January 1, 2022. This incongruity imposes a socioeconomic dilemma. In 2019, following the destruction of Hurricane Maria and Hurricane Irma in 2017, Act 60 a combination of the two previous tax incentives was instituted. These tax breaks were advantageous to remote, tech and investor industries with the propensity of being a reignition of the Puerto Rican economy but for natives of Puerto Rico it meant that they could no longer afford to live in their country.
 
 >*Act 20, "the Export Service Act"--offered corporate tax rates as a low 4% to qualifying corporations that relocate to the jurisdiction. 
 >>*Act 22, "the Individual Investors Act"--- targets high networth investors with the promise of 0% tax on interest, dividends, and capital gains obtained while residing in Puerto Rico.
